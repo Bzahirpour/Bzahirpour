@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Home Lab Projects:</h2>
 
-- [Active Directory Lab](https://github.com/Bzahirpour/ActiveDirectoryLab/blob/main/README.md)
+- [Active Directory Home Lab Guide](https://github.com/Bzahirpour/ActiveDirectoryLab/blob/main/README.md)
 - [My Website Code Edits](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 
 <h2>📄 Certifications</h2>
