@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ben! A Cybersecurity student and aspiring IT professional
+<h1>Hi, I'm Ben! I'm new to the IT world, check out my page for updates on my projects and studies!
 
 <h2>👨‍💻 Home Lab Projects:</h2>
 
