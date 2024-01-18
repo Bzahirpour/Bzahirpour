@@ -13,5 +13,5 @@
 
 - Montgomery College Cybersecurity AAS<br>
 - Google Cybersecurity Professional Certificate<br>
-- Comptia Security+<br>
+- CompTIA Security+<br>
 
