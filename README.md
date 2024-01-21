@@ -11,7 +11,7 @@
 
 <h2>🏫 Currently Studying:</h2>
 
-- Montgomery College Cybersecurity AAS<br>
+- Western Governors University B.S. Information Technology<br>
 - Google Cybersecurity Professional Certificate<br>
 - CompTIA Security+<br>
 
