@@ -8,7 +8,7 @@
 <h2>📄 Certifications</h2>
 
 - [CompTIA A+](https://www.credly.com/badges/0608eb26-3a29-4353-bb45-b4647f1cd22f/linked_in_profile)
-- [CompTIA Security+](https://www.credly.com/badges/0608eb26-3a29-4353-bb45-b4647f1cd22f/linked_in_profile)
+- [CompTIA Security+](https://www.credly.com/badges/545f24d1-4400-41ed-948d-af65a5adb4cb/linked_in?t=s8nvb2)
 
 <h2>🏫 Currently Studying:</h2>
 
