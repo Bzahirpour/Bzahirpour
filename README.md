@@ -3,6 +3,7 @@
 <h2>👨‍💻 Home Lab Projects:</h2>
 
 - [Active Directory Home Lab Guide](https://github.com/Bzahirpour/ActiveDirectoryLab/blob/main/README.md)
+- [Automate Network Troubleshooting](https://github.com/Bzahirpour/Automating-Network-Troubleshooting/tree/main)
 
 
 <h2>📄 Certifications</h2>
