@@ -16,3 +16,4 @@
 
 - Western Governors University B.S. Information Technology<br>
 - AWS Certified Cloud Practitioner<br>
+- Python
