@@ -11,7 +11,7 @@
 - [CompTIA Security+](https://www.credly.com/badges/545f24d1-4400-41ed-948d-af65a5adb4cb/linked_in?t=s8nvb2)
 - [CompTIA Network+](https://www.credly.com/users/benjamin-zahirpour/badges)
 - [LPI: Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000603474/j9csttyq8r)
-- [AWS Cerified Cloud Pracitioner](https://www.credly.com/users/benjamin-zahirpour/badges)
+- [AWS Cerified Cloud Practitioner](https://www.credly.com/users/benjamin-zahirpour/badges)
 
 <h2>🏫 Currently Studying:</h2>
 
