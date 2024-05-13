@@ -16,4 +16,5 @@
 <h2>🏫 Currently Studying:</h2>
 
 - Western Governors University B.S. Network Engineering and Security<br>
+- Cisco Certified Network Associate (CCNA)
 - Python 
