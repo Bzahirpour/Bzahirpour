@@ -14,6 +14,6 @@
 
 <h2>🏫 Currently Studying:</h2>
 
-- Western Governors University B.S. Information Technology<br>
+- Western Governors University B.S. Network Engineering and Security<br>
 - AWS Certified Cloud Practitioner<br>
 - Python 
