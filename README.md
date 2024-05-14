@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ben! I am starting a new job working in a cloud, and I do cloud stuff including Linux, Bash, networking, and programming. Check out my page for updates on my projects and studies!
+<h1>Hi, I'm Ben! I do cloud stuff including Linux, Bash, networking, and programming. Check out my page for updates on my projects and studies!
 
 <h2>👨‍💻 Home Lab Projects:</h2>
 
