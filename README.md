@@ -12,9 +12,9 @@
 - [CompTIA Network+](https://www.credly.com/users/benjamin-zahirpour/badges)
 - [LPI: Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000603474/j9csttyq8r)
 - [AWS Cerified Cloud Practitioner](https://www.credly.com/users/benjamin-zahirpour/badges)
+- [Cisco Certified Network Associate (CCNA)](https://www.credly.com/users/benjamin-zahirpour/badges)
 
 <h2>🏫 Currently Studying:</h2>
 
 - Western Governors University B.S. Network Engineering and Security<br>
-- Cisco Certified Network Associate (CCNA)
 - Python 
