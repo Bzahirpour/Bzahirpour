@@ -3,7 +3,7 @@
 <h2>👨‍💻 Home Lab Projects:</h2>
 
 - [Active Directory Home Lab Guide](https://github.com/Bzahirpour/ActiveDirectoryLab/blob/main/README.md) <br>When I was just starting out my journey into tech I set up an Active Directory lab to deepen my understanding and skillset. This is the guide on how to set up your own AD lab!<br>
-- [Java Based Keylogger](https://github.com/Bzahirpour/Key-Capture) <br>I wrote this simple key logger to futher my understanding of advisarial tactics, and to spread community awareness. 
+- [Java Based Keylogger](https://github.com/Bzahirpour/Key-Capture) <br>I wrote this simple keylogger to futher my understanding of advisarial tactics, and to spread community awareness. 
 
 
 <h2>📄 Certifications</h2>
