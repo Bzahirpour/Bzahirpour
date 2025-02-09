@@ -20,5 +20,6 @@
 <h2>🏫 Currently Studying:</h2>
 
 - Western Governors University M.S. Cybersecurity and Information Assurance<br>
+- Cisco Certified Network Professional (CCNP)- ENCOR 
 - Python
 
