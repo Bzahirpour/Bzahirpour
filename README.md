@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ben! I'm studying for a Bachelors in Network Engineering and Security. I work on things like automation, Ansible, Linux, Bash, and Python in my free time. Check out my page for updates on my projects and studies!
+<h1>Hi, I'm Ben! I'm a Senior NOC Technician, aspiring Network Engineer, and a recent graduate with a Bachelors in Network Engineering and Security. I work on things like automation, Ansible, Linux, Bash, and Python in my free time. Check out my page for updates on my projects and studies!
 
 <h2>👨‍💻 Home Lab Projects:</h2>
 
@@ -15,9 +15,10 @@
 - [AWS Cerified Cloud Practitioner](https://www.credly.com/users/benjamin-zahirpour/badges)
 - [Cisco Certified Network Associate (CCNA)](https://www.credly.com/users/benjamin-zahirpour/badges)
 - [CompTIA Cloud+](https://www.credly.com/users/benjamin-zahirpour/badges)
+- [ITIL 4 Foundations](https://www.linkedin.com/in/benjamin-zahirpour/)
 
 <h2>🏫 Currently Studying:</h2>
 
-- Western Governors University B.S. Network Engineering and Security<br>
+- Western Governors University M.S. Cybersecurity and Information Assurance<br>
 - Python
-- ITIL 4 Foundation
+
