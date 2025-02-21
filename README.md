@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- [Engineering My Own Network](https://github.com/Bzahirpour/Network-Design/tree/main) <br>I built my own network for fun, then when I got to my Capstone we needed to submit a network design so I used the one I had already built. I had an absolute blast working on this project, and it was a way bigger undertaking than I orginally thought. Here you can see my network design, along with a full write up about it and all the config files for the network devices!<br>
+- [Engineering My Own Network](https://github.com/Bzahirpour/Network-Design/tree/main) <br>I built my own network for fun, then when I got to my Capstone we needed to submit a network design so I used the one I had already built. I had an absolute blast working on this project, and it was a way bigger undertaking than I orginally thought. Working on this project has given me a whole new respect for network engineers and architects. Here you can see my network design, along with a full write up about it and all the config files for the network devices!<br>
 - [Java Based Keylogger](https://github.com/Bzahirpour/Key-Capture) <br>Here is a simple keylogger I wrote to futher my understanding of advisarial tactics, and to spread community awareness. 
 
 
