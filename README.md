@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- [Enineering My Own Network](https://github.com/Bzahirpour/Network-Design/tree/main) <br>I set up my own network to deepen my understanding, and develop my skillset.<br>
+- [Engineering My Own Network](https://github.com/Bzahirpour/Network-Design/tree/main) <br>I set up my own network to deepen my understanding, and develop my skillset.<br>
 - [Java Based Keylogger](https://github.com/Bzahirpour/Key-Capture) <br>Here is a simple keylogger I wrote to futher my understanding of advisarial tactics, and to spread community awareness. 
 
 
