@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ben! I'm a Senior NOC Technician, aspiring Network Engineer, and a recent graduate with a Bachelors in Network Engineering and Security. I work on things like automation, Ansible, Linux, Bash, and Python in my free time. Check out my page for updates on my projects and studies!
 
-<h2>👨‍💻 Home Lab Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - [Active Directory Home Lab Guide](https://github.com/Bzahirpour/ActiveDirectoryLab/blob/main/README.md) <br>I set up an Active Directory lab to deepen my understanding, and develop my skillset. This is the guide on how to set up your own AD lab!<br>
 - [Java Based Keylogger](https://github.com/Bzahirpour/Key-Capture) <br>Here is a simple keylogger I wrote to futher my understanding of advisarial tactics, and to spread community awareness. 
