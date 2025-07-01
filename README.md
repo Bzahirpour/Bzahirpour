@@ -16,6 +16,8 @@
 - [Cisco Certified Network Associate (CCNA)](https://www.credly.com/users/benjamin-zahirpour/badges)
 - [CompTIA Cloud+](https://www.credly.com/users/benjamin-zahirpour/badges)
 - [ITIL 4 Foundations](https://www.linkedin.com/in/benjamin-zahirpour/)
+- [JNCIA](https://www.linkedin.com/in/benjamin-zahirpour/)
+- [JNCIS-SP](https://www.linkedin.com/in/benjamin-zahirpour/)
 
 <h2>🏫 Currently Studying:</h2>
 
