@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ben! I'm a Network Engineer & Operations Team Lead, and a graduate with a Bachelors in Network Engineering and Security. I work on things like automation, Ansible, Linux, Bash, and Python in my free time. Check out my page for updates on my projects and studies!
+<h1>Hi, I'm Ben! I'm a Network Engineer & Operations Team Lead, and a graduate with a Bachelors in Network Engineering. I work on things like automation, Ansible, Linux, Bash, and Python in my free time. Check out my page for updates on my projects and studies!
 
 <h2>👨‍💻 Projects:</h2>
 
