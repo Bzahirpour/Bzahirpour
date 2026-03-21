@@ -18,10 +18,13 @@
 - [ITIL 4 Foundations](https://www.linkedin.com/in/benjamin-zahirpour/)
 - [Juniper Networks Certified Internet Associate (JNCIA)](https://www.linkedin.com/in/benjamin-zahirpour/)
 - [Juniper Networks Certified Internet Specialist (JNCIS-SP)](https://www.linkedin.com/in/benjamin-zahirpour/)
+- [PMI Project Management Professional](https://www.credly.com/users/benjamin-zahirpour/badges)
+- [AWS Solutions Architect Associate](https://www.credly.com/users/benjamin-zahirpour/badges)
+- [AWS CloudOps Engineer Associate](https://www.credly.com/users/benjamin-zahirpour/badges)
 
 <h2>🏫 Currently Studying:</h2>
 
 - Western Governors University MBA Information Technology Management<br>
-- Cisco Certified Network Professional (CCNP)- ENCOR 
+- AWS Advanced Networking Specialty
 - Python
 
