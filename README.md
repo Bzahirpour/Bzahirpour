@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- [Engineering My Own Network](https://github.com/Bzahirpour/Network-Design/tree/main) <br>I built my own network for fun, then when I got to my Capstone we needed to submit a network design so I used the one I had already built. I had an absolute blast working on this project, and it was a way bigger undertaking than I orginally thought. Working on this project has given me a whole new respect for network engineers and architects. Here you can see my network design, along with a full write up about it and all the config files for the network devices!<br>
-- [Java Based Keylogger](https://github.com/Bzahirpour/Key-Capture) <br>Here is a simple keylogger I wrote to futher my understanding of advisarial tactics, and to spread community awareness. 
+- [Engineering My Own Network](https://github.com/Bzahirpour/Network-Design/tree/main) <br>Designed and implemented a full enterprise network topology from scratch, including routing, switching, VLANs, and security policies. Includes complete network design documentation and device configurations. Originally built for personal learning, later submitted as Capstone project.<br>
+- [Network Device Software Inventory](https://github.com/Bzahirpour/network-automation/tree/main) <br>Python automation script using NAPALM to collect software versions from multi-vendor network devices (Juniper/Cisco). Outputs results to terminal and generates timestamped CSV reports. Supports dynamic inventory via YAML. <br>
 
 
 <h2>📄 Certifications</h2>
