@@ -1,8 +1,9 @@
-<h1>Hi, I'm Ben — Network Engineer & Operations Team Lead with a B.S. in 
-Network Engineering. I work with Python, Ansible, and Bash to automate 
-network operations, with hands-on experience on Juniper and Cisco 
-infrastructure. Certified in AWS cloud networking and architecture. 
-Always building, always learning.
+<h1>Hi, I'm Ben — a Network Engineer & Operations Team Lead with a B.S. in 
+Network Engineering. I have hands-on experience designing and operating 
+Juniper and Cisco infrastructure, and I use Python, Ansible, and Bash to 
+automate network operations. I hold multiple AWS certifications including 
+Solutions Architect and CloudOps Engineer, and I'm currently pursuing the 
+AWS Advanced Networking Specialty. Check out my page for updates on my projects and studies! Always building, always learning.
 
 <h2>👨‍💻 Projects:</h2>
 
