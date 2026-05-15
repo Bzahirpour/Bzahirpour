@@ -26,10 +26,11 @@ AWS Advanced Networking Specialty. Check out my page for updates on my projects 
 - [PMI Project Management Professional](https://www.credly.com/users/benjamin-zahirpour/badges)
 - [AWS Solutions Architect Associate](https://www.credly.com/users/benjamin-zahirpour/badges)
 - [AWS CloudOps Engineer Associate](https://www.credly.com/users/benjamin-zahirpour/badges)
+- [AWS Advanced Networking Specialty](https://www.credly.com/users/benjamin-zahirpour/badges)
 
 <h2>🏫 Currently Studying:</h2>
 
-- Western Governors University MBA Information Technology Management<br>
-- AWS Advanced Networking Specialty
-- Python
+- Western Governors University MS Computer Science AI/ML<br>
+- CKAD
+- Kubernetes
 
