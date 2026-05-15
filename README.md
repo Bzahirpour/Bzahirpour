@@ -1,14 +1,12 @@
-<h1>Hi, I'm Ben — a Network Engineer & Operations Team Lead with a B.S. in 
-Network Engineering. I have hands-on experience designing and operating 
-Juniper and Cisco infrastructure. I use Python, Ansible, and Bash to 
-automate network operations. I hold multiple AWS certifications including 
-Solutions Architect and CloudOps Engineer, and I'm currently pursuing the 
-AWS Advanced Networking Specialty. Check out my page for updates on my projects and studies! Always building, always learning.
+# Hi, I'm Ben
 
-<h2>👨‍💻 Projects:</h2>
+I spent most of my twenties as a master electrician, doing mostly residential work. I was good at it, but somewhere in my early thirties I realized I didn't want to do manual labor for the rest of my life. I got my A+, Net+, and Sec+, and started my tech career in May 2024 doing network deployment in a hyperscaler data center, racking gear, running fiber, and turning up POPs and cross-connects to AWS and the other clouds. From there I moved into a federal enterprise NOC, and then to a WAN service provider where I helped build a NOC from a concept into a real operation: hiring and training 18 people, writing the SOPs and playbooks, leading meetings with engineering, and getting deep into Juniper and BGP/MPLS along the way.
 
-- [Engineering My Own Network](https://github.com/Bzahirpour/Network-Design/tree/main) <br>Designed and implemented a full enterprise network topology from scratch, including routing, switching, VLANs, and security policies. Includes complete network design documentation and device configurations. Originally built for personal learning, later submitted as Capstone project.<br>
-- [Network Device Software Inventory](https://github.com/Bzahirpour/network-automation/tree/main) <br>Python automation script using NAPALM to collect software versions from multi-vendor network devices (Juniper/Cisco). Outputs results to terminal and generates timestamped CSV reports. Supports dynamic inventory via YAML. <br>
+That was two years ago.
+
+I'm not the smartest person in any room I walk into. What I have is drive. I study early, I lab late, and I read on weekends because I genuinely love what I do. Everything pinned below, the Terraform pipelines, the AWS infrastructure, the automation demos all came from that time outside of work. Same with the B.S. in Network Engineering, the MSCS (AI/ML focus) in progress at WGU, and the certs in the section below.
+
+What I'm focused on now is cloud — designing and automating infrastructure on AWS with Terraform and CI/CD, picking up Kubernetes, and finding the right team to keep building with and mentoring alongside.
 
 
 <h2>📄 Certifications</h2>
@@ -17,7 +15,7 @@ AWS Advanced Networking Specialty. Check out my page for updates on my projects 
 - [CompTIA Security+](https://www.credly.com/badges/545f24d1-4400-41ed-948d-af65a5adb4cb/linked_in?t=s8nvb2)
 - [CompTIA Network+](https://www.credly.com/users/benjamin-zahirpour/badges)
 - [LPI: Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000603474/j9csttyq8r)
-- [AWS Cerified Cloud Practitioner](https://www.credly.com/users/benjamin-zahirpour/badges)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/users/benjamin-zahirpour/badges)
 - [Cisco Certified Network Associate (CCNA)](https://www.credly.com/users/benjamin-zahirpour/badges)
 - [CompTIA Cloud+](https://www.credly.com/users/benjamin-zahirpour/badges)
 - [ITIL 4 Foundations](https://www.linkedin.com/in/benjamin-zahirpour/)
