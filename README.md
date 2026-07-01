@@ -6,7 +6,7 @@ That was two years ago.
 
 I wouldn't say I'm the smartest person, or that I pick things up faster than others. What I have is drive. I study early, I lab late, and I read on weekends because I genuinely love what I do. Everything pinned below: the Terraform pipelines, the AWS infrastructure, the automation demos all came from that time outside of work. Same with the B.S. in Network Engineering, the MSCS (AI/ML focus) in progress at WGU, and the certs in the section below.
 
-What I'm focused on now is cloud — designing and automating infrastructure on AWS with Terraform and CI/CD, picking up Kubernetes, and finding the right team to keep building with and mentoring alongside.
+What I'm focused on now is cloud. Designing and automating infrastructure on AWS with Terraform and CI/CD, picking up Kubernetes, and finding the right team to keep building with and mentoring alongside.
 
 
 <h2>📄 Certifications</h2>
